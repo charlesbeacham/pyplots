@@ -3,3 +3,4 @@ envs/*
 .ipynb_checkpoints/Bar_Chart_Practice-checkpoint.ipynb
 .ipynb_checkpoints/Bar_Chart_Practice-checkpoint.ipynb .ipynb_checkpoints/Histogram_Practice-checkpoint.ipynb .ipynb_checkpoints/solutions_univ-checkpoint.py
 __pycache__/solutions_univ.cpython-311.pyc
+data/*
